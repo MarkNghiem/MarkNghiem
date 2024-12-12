@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarkNghiem. My real first name is Kiet but I go by Mark most of the time.
-- 👀 I’m interested in gaming and clearing code blocks.
-- 🌱 I’m currently learning JS, Node.js, Express.js, React.js, Redux.js, TS, MongoDB, PostgreSQL.
+- 👀 I’m interested in gaming and recently styling using Tailwind CSS.
+- 🌱 I’m currently learning PostgreSQL in conjunction of Sequelize, Kubernetes, Prometheus and Docker.
 - 💞️ I’m looking for more Pair Programming sessions.
 - 📫 How to reach me: Contact me via:
 - 📫 LinkedIn: https://www.linkedin.com/in/kiet-nghiem-403745190/
