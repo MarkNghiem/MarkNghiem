@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning PostgreSQL in conjunction of Sequelize, Kubernetes, Prometheus and Docker.
 - 💞️ I’m looking for more Pair Programming sessions.
 - 📫 How to reach me: Contact me via:
-- 📫 LinkedIn: https://www.linkedin.com/in/kiet-nghiem-403745190/
+- 📫 LinkedIn: https://www.linkedin.com/in/kiet-nghiem/
 - 📫 Email: mark.klietnghiem@gmail.com
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I love FFXIV. If you ever want a reliable tank, hit me up!
