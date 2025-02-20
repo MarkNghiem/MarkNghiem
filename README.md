@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarkNghiem. My real first name is Kiet but I go by Mark most of the time.
 - 👀 I’m interested in gaming and recently styling using Tailwind CSS.
-- 🌱 I’m currently learning PostgreSQL in conjunction of Sequelize, Kubernetes, Prometheus and Docker.
+- 🌱 I’m currently diving deep into SQL as well as Kubernetes and Docker. I'm also making my own portfolio website. [Check it out!] 👀
 - 💞️ I’m looking for more Pair Programming sessions.
 - 📫 How to reach me: Contact me via:
 - 📫 LinkedIn: https://www.linkedin.com/in/kiet-nghiem/
